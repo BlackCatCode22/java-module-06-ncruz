@@ -1,0 +1,30 @@
+******* Zoo Population and Habitat Assignment Report ********
+
+Hyena Habitat:
+
+Hy01; 4 years old; Shenzi; birthDate: 2021-03-21; tan color color; female; 70 pounds; laugh: Haha; from: from Friguia Park, Tunisia; arrived: 2025-11-04
+Hy02; 12 years old; Banzai; birthDate: 2013-09-21; brown color color; male; 150 pounds; laugh: Haha; from: from Friguia Park, Tunisia; arrived: 2025-11-04
+Hy03; 4 years old; Ed; birthDate: 2021-03-21; black color color; male; 120 pounds; laugh: Haha; from: from Friguia Park, Tunisia; arrived: 2025-11-04
+Hy04; 8 years old; Zig; birthDate: 2017-07-01; black and tan striped color color; female; 105 pounds; laugh: Haha; from: from Friguia Park, Tunisia; arrived: 2025-11-04
+
+Lion Habitat:
+
+Li01; 6 years old; Scar; birthDate: 2019-03-21; tan color color; female; 300 pounds; roar: Roarrr; from: from Zanzibar, Tanzania; arrived: 2025-11-04
+Li02; 12 years old; Mufasa; birthDate: 2013-12-21; dark tan color color; female; 375 pounds; roar: Roarrr; from: from KopeLion, Tanzania; arrived: 2025-11-04
+Li03; 22 years old; Simba; birthDate: 2003-09-21; golden color color; male; 450 pounds; roar: Roarrr; from: from Zanzibar, Tanzania; arrived: 2025-11-04
+Li04; 4 years old; Kiara; birthDate: 2021-03-21; tan and brown color color; female; 275 pounds; roar: Roarrr; from: from KopeLion, Tanzania; arrived: 2025-11-04
+
+Tiger Habitat:
+
+Ti01; 2 years old; Tony; birthDate: 2023-03-21; gold and tan stripes color color; male; 270 pounds; roar: Mew!; from: from Dhaka, Bangladesh; arrived: 2025-11-04
+Ti02; 4 years old; Tigger; birthDate: 2021-03-21; black stripes color color; female; 400 pounds; roar: Mew!; from: from Dhaka, Bangladesh; arrived: 2025-11-04
+Ti03; 18 years old; Amber; birthDate: 2007-09-21; gold and tan color color; male; 300 pounds; roar: Mew!; from: from Bardia, Nepal; arrived: 2025-11-04
+Ti04; 3 years old; Cosimia; birthDate: 2022-03-21; black stripes color color; female; 285 pounds; roar: Mew!; from: from Bardia, Nepal; arrived: 2025-11-04
+
+Bear Habitat:
+
+Be01; 7 years old; Yogi; birthDate: 2018-03-21; brown color color; male; 320 pounds; roar: Grrrrr; from: from Alaska Zoo, Alaska; arrived: 2025-11-04
+Be02; 25 years old; Smokey; birthDate: 2000-03-21; black color color; female; 425 pounds; roar: Grrrrr; from: from Woodland park Zoo, Washington ; arrived: 2025-11-04
+Be03; 4 years old; Paddington; birthDate: 2021-09-21; black color color; female; 355 pounds; roar: Grrrrr; from: from Woodland park Zoo, Washington ; arrived: 2025-11-04
+Be04; 4 years old; Lippy; birthDate: 2021-03-21; brown color color; male; 405 pounds; roar: Grrrrr; from: from Alaska Zoo, Alaska; arrived: 2025-11-04
+
